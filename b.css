@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+<html>
+<style>
+body{
+background color: blue;
+}
+
+table{width=100px;
+border-collapse=collapse;
+}
+td,th{
+border:1px solid black;
+padding: 10px;
+text-align="center"
+}
+
+<table>
+<thead></thead>
+<tbody>
+<tr>
+<th>Qualification</th>
+<th>Branch</th>
+<th>College Name</th>
+<th>Year of passing</th>
+<th>Percentage/GPA</th>
+</tr>
+<tr>
+<td>SSC</td>
+<td>Telugu</td>
+<td>Vidwan un-aided u.p scchool</td>
+<td>2015</td>
+<td>8.7</td>
+</tr>
+<tr>
+<td>Inter</td>
+<td>M.P.C</td>
+<td>Vijaya co-op junior college</td>
+<td>2017</td>
+<td>92.3%</td>
+</tr>
+<tr>
+<td>Degree</td>
+<td>BSC</td>
+<td>Sri Ramakrishna Degree College</td>
+<td>2020</td>
+<td>8.54<td>
+</tr>
+</tbody>
+</table>
+</head>
+</html>
